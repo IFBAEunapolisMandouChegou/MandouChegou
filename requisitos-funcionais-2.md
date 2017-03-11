@@ -2,7 +2,7 @@
 
 ---
 
-> # Requisitos Funcionais\]
+> # Requisitos Funcionais
 
 | Código | Nome | Descrição | Prioridade |
 | :---: | :---: | :---: | :---: |
