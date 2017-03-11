@@ -1,5 +1,6 @@
 # Summary
 
 * [Glossário](README.md)
-* [Especificação de Requisitso](chapter1.md)
+* [Especificação de Requisitos](especificacao-de-requisitos.md)
+* [Índice](indice.md)
 
