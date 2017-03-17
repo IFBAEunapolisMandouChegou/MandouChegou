@@ -14,7 +14,7 @@
 
 * [x] **Destinatário** - Pessoa que receberá a entrega.
 
-* [x] **Taxa** - Valor que será pago pelo destinatário pela entrega do produto.
+* [x] **Taxa** - Valor que será pago pelo destinatário pela entrega do produto. 
 
 
 
