@@ -6,7 +6,7 @@
 
 ### **3. Metas e Restrições da Arquitetura**
 
-**Tecnologias Utilizadas**
+**Tecnologias e Especificações Utilizadas**
 
 * JEE \(Java Enterprise Edition\)
 
