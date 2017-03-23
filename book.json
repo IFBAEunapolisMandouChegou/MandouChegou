@@ -1,0 +1,13 @@
+{
+    "plugins": [ "code-editor"]
+}
+{
+  "plugins": [
+    "header"
+  ],
+  "pluginsConfig": {
+    "layout": {
+      "headerPath" : "layouts/header.html"
+    }
+  }
+}
