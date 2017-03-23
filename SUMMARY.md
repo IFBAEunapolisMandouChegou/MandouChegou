@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Documento de Arquitetura](documento-de-arquitetura.md)
+* [Documento de Arquitetura](doc_arquitetura/documento-de-arquitetura.md)
 * [Índice](doc_arquitetura/indice.md)
 * [Introdução](doc_arquitetura/introducao.md)
 * [Finalidade](doc_arquitetura/finalidade.md)
